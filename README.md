@@ -1,5 +1,9 @@
 # Shareing Paper
 
+## 最近のまとめは
+https://scrapbox.io/hkefka385/
+に移動
+
 読んだpaperを個人的にまとめるための施策。
 Issueにどんどん記載
 
@@ -14,6 +18,4 @@ Issueにどんどん記載
 not_reading:ちゃんと読んでなくて概観だけさらった時のタグ
 skimming:全部読んでなくて流し読みした時のタグ
 ```
-最近のまとめは
-https://scrapbox.io/hkefka385/
-に移動
+
