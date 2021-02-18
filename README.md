@@ -1,6 +1,6 @@
 # Shareing Paper
 
-# 最近のまとめはhttps://scrapbox.io/hkefka385/に移動
+#### 最近のまとめはhttps://scrapbox.io/hkefka385/ に移動
 
 読んだpaperを個人的にまとめるための施策。
 Issueにどんどん記載
